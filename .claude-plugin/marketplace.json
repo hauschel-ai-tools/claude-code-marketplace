@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hauschel-plugins",
+  "description": "Hauschel's Plugin Marketplace — Claude Code Plugins und MCP-Server von SoftwareEngineering Hauschel",
+  "owner": {
+    "name": "SoftwareEngineering Hauschel"
+  },
+  "plugins": [
+    {
+      "name": "jdt-mcp-server",
+      "description": "Eclipse Plugin embedding an MCP Server to expose JDT features to AI coding assistants like Claude Code and Cursor.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hauschel-ai-tools/jdt-mcp-server.git"
+      },
+      "homepage": "https://github.com/hauschel-ai-tools/jdt-mcp-server"
+    }
+  ]
+}
