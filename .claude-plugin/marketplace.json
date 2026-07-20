@@ -15,7 +15,7 @@
       "source": {
         "source": "github",
         "repo": "hauschel-ai-tools/jdt-mcp-server",
-        "ref": "v0.2.8"
+        "ref": "v0.2.18"
       },
       "homepage": "https://github.com/hauschel-ai-tools/jdt-mcp-server"
     }
