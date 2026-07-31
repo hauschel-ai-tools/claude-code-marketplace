@@ -18,6 +18,17 @@
         "ref": "v0.2.18"
       },
       "homepage": "https://github.com/hauschel-ai-tools/jdt-mcp-server"
+    },
+    {
+      "name": "arknet",
+      "description": "DDD architecture models that machines understand. Validatable (SHACL), queryable (SPARQL), AI-ready (MCP).",
+      "category": "development",
+      "source": {
+        "source": "github",
+        "repo": "kogn-io/arknet-plugin",
+        "ref": "v0.3.18"
+      },
+      "homepage": "https://github.com/kogn-io/arknet-plugin"
     }
   ]
 }

@@ -15,11 +15,13 @@ For details on how marketplaces work, see the [official Plugin documentation](ht
 | Plugin | Description |
 |--------|-------------|
 | [jdt-mcp-server](https://github.com/hauschel-ai-tools/jdt-mcp-server) | MCP Server exposing Eclipse JDT features for Java development — code analysis, refactoring, type hierarchies, find references, and more. |
+| [arknet](https://github.com/kogn-io/arknet-plugin) | DDD architecture models that machines understand — requirements, use cases, glossary, bounded contexts and ADRs, validatable (SHACL), queryable (SPARQL), AI-ready (MCP). |
 
 ### Prerequisites
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) installed (v1.0.0+)
 - For jdt-mcp-server: Java 21 or newer
+- For arknet: a running arknet MCP server (see the [plugin README](https://github.com/kogn-io/arknet-plugin#requirements))
 
 ### Installation
 
@@ -80,11 +82,13 @@ Details zur Funktionsweise findest du in der [offiziellen Plugin-Dokumentation](
 | Plugin | Beschreibung |
 |--------|-------------|
 | [jdt-mcp-server](https://github.com/hauschel-ai-tools/jdt-mcp-server) | MCP-Server fuer Eclipse JDT-Features in der Java-Entwicklung — Code-Analyse, Refactoring, Typ-Hierarchien, Referenzen finden und mehr. |
+| [arknet](https://github.com/kogn-io/arknet-plugin) | DDD-Architekturmodelle, die Maschinen verstehen — Requirements, Use Cases, Glossar, Bounded Contexts und ADRs, validierbar (SHACL), abfragbar (SPARQL), AI-ready (MCP). |
 
 ### Voraussetzungen
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) installiert (v1.0.0+)
 - Fuer jdt-mcp-server: Java 21 oder neuer
+- Fuer arknet: ein laufender arknet-MCP-Server (siehe [Plugin-README](https://github.com/kogn-io/arknet-plugin#requirements))
 
 ### Installation
 
